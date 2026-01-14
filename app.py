@@ -13,7 +13,7 @@ import yt_dlp
 # =========================
 
 HOST = "0.0.0.0"
-PORT = 25565
+PORT = 80
 
 DOWNLOAD_DIR = "downloads"
 MAX_PARALLEL_DOWNLOADS = 4
